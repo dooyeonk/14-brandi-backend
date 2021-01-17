@@ -129,7 +129,7 @@
 | ADMIN  | event | 기획전 리스트 조회     | 강두연    |
 | ADMIN  | event | 기획전 상세 조회       | 강두연    |
 | ADMIN  | event | 기획전 수정           | 강두연    |
-| ADMIN  | event | 기획전 삭제           | 이성보    |
+| ADMIN  | event | 기획전 삭제           | 강두연    |
 | ADMIN  | order | 주문 리스트 조회   | 이성보    |
 | ADMIN  | order | 주문 관리 상태 변경   | 이성보    |
 | ADMIN  | order | 엑셀 다운로드   | 이성보    |
